@@ -26,10 +26,6 @@ public class StackUsingArray {
         --top;
         return x;
     }
-    public boolean isFull()
-    {
-        return top == maxsize-1;
-    }
     public boolean isEmpty()
     {
         return top == -1;

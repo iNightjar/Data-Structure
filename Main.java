@@ -1,9 +1,20 @@
 package datastructure;
 
-public class Main{
+/*
+public class Main{ // queueUsingArray
     public static void main(String [] args) {
-    
+        queueUsingArray arr = new queueUsingArray(5);
+        arr.insert(12);
+        arr.insert(11);
+        arr.insert(10);
+        arr.insert(9);
+        arr.insert(8);
+        System.out.println("The Result is : "+ arr.beek());
+        arr.delete();
+        System.out.println("The Result is : "+ arr.beek());
     }
+
+} */
 /* public class Main{ // StackUsingArray
     public static void main(String[] args) {
         String s = "iNightjar"; // working with strings
@@ -22,9 +33,9 @@ public class Main{
         a.push(5);
         a.push(12);
         System.out.println("the Top of The Stack is: " + a.peek());
-        System.out.println("the Top of The Stack After pop is : " + a.pop()); */
+        System.out.println("the Top of The Stack After pop is : " + a.pop());
     }
-}
+} */
 
 /*
 public class Main { // recursion algorithms
