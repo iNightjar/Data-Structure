@@ -1,5 +1,18 @@
 package datastructure;
 
+import java.io.OutputStream;
+
+/* public class Main{  // Single linkedlist implementation
+    public static void main(String[]args)
+    {
+        LinkedList example = new LinkedList();
+        System.out.println("is Empty : " + example.isEmpty());
+        example.insertFirst(10);
+        System.out.println("is Empty : " + example.isEmpty());
+    }
+}
+*/
+
 /*
 public class Main{ // queueUsingArray
     public static void main(String [] args) {
