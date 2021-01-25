@@ -1,6 +1,5 @@
 package datastructure;
-
-public class BinarySearch { // binarysaerch for Sorted Array
+public class BinarySearchinSortedArray { // binarysaerch for Sorted Array
     private int [] data;
     private int nelement =0;
     public boolean binarysearch(int value)
